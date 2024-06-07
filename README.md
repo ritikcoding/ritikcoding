@@ -1,6 +1,6 @@
 ![Linkedin 1](https://github.com/ritikcoding/ritikcoding/assets/103274284/2f1346f5-eac0-413c-aca8-df960bdb2538)
 <hr>
-<h1 align="center">Hi 👋, I'm Ritik Tembhurne</h1>
+<h1 align="center">Hi , I'm Ritik Tembhurne</h1>
 <hr>
 <h3 align="center">A passionate software engineer from India</h3>
 <h4 align="center">To pursue my career in a reputable company where I can use my technical knowledge to the best use and also to improve my skills to add more value to my life as well as for organization. Good analytical skill coupled with quick grasping ability and adaptability helps me to handle any given situation with ease and perfection.</h4>
